@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace Nabegh_DevCart.Models
 {
     public class ErrorViewModel
     {

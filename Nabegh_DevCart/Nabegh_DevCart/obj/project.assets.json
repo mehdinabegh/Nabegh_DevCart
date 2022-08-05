@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\nabegh_DevDart\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\nabegh_DevDart\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\nabegh_DevDart\\Nabegh_DevCart\\Nabegh_DevCart\\Nabegh_DevCart.csproj",
+      "projectName": "Nabegh_DevCart",
+      "projectPath": "C:\\nabegh_DevDart\\Nabegh_DevCart\\Nabegh_DevCart\\Nabegh_DevCart.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\nabegh_DevDart\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\nabegh_DevDart\\Nabegh_DevCart\\Nabegh_DevCart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

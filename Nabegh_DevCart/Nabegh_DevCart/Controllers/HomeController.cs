@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Nabegh_DevCart.Models;
 using System.Diagnostics;
-using WebApplication1.Models;
 
-namespace WebApplication1.Controllers
+namespace Nabegh_DevCart.Controllers
 {
     public class HomeController : Controller
     {
